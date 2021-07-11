@@ -29,3 +29,8 @@ This bot provides an interface for a cloud for Telegram messages, such as pictur
 - **Database-Channel**: Create a super group you like by making the chat history visible and invite @missrose_bot and your cloudRobot.
 Then write /id and remove Rose again afterwards. The channel ID should be in this format: -100xxx
 - **Admins**: Users who are allowed to use this cloudRobot. Please write the user IDs separated with spaces in this format: "11272378 2711717 16162662"
+
+# Commands:
+- **/start**: send a control Panel
+- **/addfolder {FOLDERNAME}**:  create a new folder
+- **/rename MSGID;NEW TITLE**: rename a file
